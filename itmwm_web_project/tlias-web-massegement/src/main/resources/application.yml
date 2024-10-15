@@ -31,7 +31,7 @@ mybatis:
 #自定义阿里云oss配置信息
 aliyun:
   oss:
-    endpoint: https://oss-cn-shenzhen.aliyuncs.com
-    accessKeyId: LTAI5tQ5PZZ4CbF5uQoupEk2
-    accessKeySecret: qNRyUD2Jpc9zkuybQoykVBlIJERKDB
-    bucketName: web-beta
+    endpoint:
+    accessKeyId: L
+    accessKeySecret:
+    bucketName:
