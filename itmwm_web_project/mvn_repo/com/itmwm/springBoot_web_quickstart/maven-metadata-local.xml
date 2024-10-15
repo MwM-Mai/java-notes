@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.itmwm</groupId>
+  <artifactId>springBoot_web_quickstart</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20241012084340</lastUpdated>
+  </versioning>
+</metadata>
