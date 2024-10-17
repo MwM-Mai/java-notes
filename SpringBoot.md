@@ -219,7 +219,7 @@ public class TimeAspect {
 @PointCut("execution(* com.itmwm.service.*.*(..))")
 public void pt(){}
 
- @Around("pt")
+ @Around("pt()")
   public Object recordTime(ProceedingJoinPoint joinPoint) throws Throwable {
 ```
 
